@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <dngeldark>
+   # dngeldark
 
    # Input:
    # p, principal amount
